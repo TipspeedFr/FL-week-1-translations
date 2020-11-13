@@ -4,61 +4,61 @@
 translate french s03_97dc2f80:
 
     # "5:00 PM"
-    "5:00 PM"
+    "17:00"
 
 # game/code/d01/s03.rpy:62
 translate french s03_e3f7cb14:
 
     # mct "Looks like I'm the first one here."
-    mct "Looks like I'm the first one here."
+    mct "On dirait que je suis le premier ici."
 
 # game/code/d01/s03.rpy:63
 translate french s03_44036afc:
 
     # mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
-    mct "Kevin and his [game.chloekevin] should be here soon. The game's getting ready to start."
+    mct "Kevin et son [game.chloekevin] devrait être là bientôt. Le jeu se prépare à démarrer ."
 
 # game/code/d01/s03.rpy:65
 translate french s03_64a6e728:
 
     # mct "Watching Min swallow Antony's cum was amazing!"
-    mct "Watching Min swallow Antony's cum was amazing!"
+    mct "Regarder Min avaler le sperme d'Antony était incroyable!"
 
 # game/code/d01/s03.rpy:66
 translate french s03_dc5397d2:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
+    mct "C'est beaucoup plus excitant de voir quelqu'un que vous connaissez le faire, plutôt que de simplement le regarder dans un porno."
 
 # game/code/d01/s03.rpy:67
 translate french s03_ffb1c17a:
 
     # mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
-    mct "I wonder if this has something to do with the Fetish Locator app? Right before that, it asked about the cumshot fetish and few minutes later I saw Min swallowing Antony's jizz."
+    mct "Je me demande si cela a quelque chose à voir avec l'application Fetish Locator? Juste avant cela, il a posé des questions sur le fétiche de l'éjaculation et quelques minutes plus tard, j'ai vu Min avaler le sperme d'Antony."
 
 # game/code/d01/s03.rpy:68
 translate french s03_6224a6c7:
 
     # mct "That couldn't have been a coincidence. I need to check the app."
-    mct "That couldn't have been a coincidence. I need to check the app."
+    mct "Cela ne pouvait pas être une coïncidence. J'ai besoin de vérifier l'application."
 
 # game/code/d01/s03.rpy:70
 translate french s03_6d020712:
 
     # mct "Min giving a handjob was amazing."
-    mct "Min giving a handjob was amazing."
+    mct "Min donne une branlette incroyable."
 
 # game/code/d01/s03.rpy:71
 translate french s03_dc5397d2_1:
 
     # mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
-    mct "It's a lot more exciting seeing someone you know do it, rather than just to watch it in a porn."
+    mct "C'est beaucoup plus excitant de voir quelqu'un que vous connaissez le faire, plutôt que de simplement le regarder dans un porno."
 
 # game/code/d01/s03.rpy:73
 translate french s03_0f54bf1c:
 
     # mct "Oh. There's a new message from the app."
-    mct "Oh. There's a new message from the app."
+6    mct "Oh. Il y a un nouveau message de l'application."
 
 # game/code/d01/s03.rpy:75
 translate french s03_c33e016e:
